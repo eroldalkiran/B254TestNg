@@ -10,6 +10,7 @@ public class Runner {
         //remote degisiklik
         System.out.println("dev 1 in commiti");
          //githubda deg
+        System.out.println("tec3");
 
 
 
