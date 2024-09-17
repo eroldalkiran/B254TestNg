@@ -7,6 +7,10 @@ public class Runner {
         System.out.println("tecpro 1");
         System.out.println("tecpro 2");
         System.out.println("tecpro 3");
+        //remote degisiklik
+        System.out.println("dev 1 in commiti");
+         //githubda deg
+
 
 
     }
