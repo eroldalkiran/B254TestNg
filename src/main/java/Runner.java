@@ -7,7 +7,7 @@ public class Runner {
         System.out.println("tecpro 1");
         System.out.println("tecpro 2");
         //remote degisiklik
-
+        System.out.println("dev 1 in commiti");
 
     }
 
