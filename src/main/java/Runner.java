@@ -7,7 +7,7 @@ public class Runner {
         System.out.println("tecpro 1");
         System.out.println("tecpro 2");
         //remote degisiklik
-
+         //githubda deg
 
     }
 
